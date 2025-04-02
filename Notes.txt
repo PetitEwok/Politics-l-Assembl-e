@@ -4,16 +4,16 @@ W  (blanc)    --> Macronistes
 G  (vert)     --> Ecolos, Jancovicistes et agriculteurs
 R  (rouge)    --> LFI, communistes, gauche révolutionnaire
 
-GU  Simic    --> Ecolos de droite, nucleaire zoozs, technosolutionnistes : untap, activated abilities
-WU  Azorius  --> Ultraliberaux :  Lifegain, control
+GU  Simic    --> Ecolos de droite, nucléaire zoozs, techno solutionnistes : tap, untap, activated abilities
+WU  Azorius  --> Ultralibéraux :  Lifegain, control
 UB  Dimir    --> UMPS/Printemps républicain :  Value from the graveyard, reanimation, mill
-UR  Izzet    --> Complotistes Russophiles ? :  Pirates (informatique) -> connect face
-WR  Boros    --> En marche / revolutionnaires : Go wide / tokens
+UR  Izzet    --> Complotistes Russophiles, Extremes :  Pirates (informatique) --> combat damage, treasures (maybe)
+WR  Boros    --> En marche / révolutionnaires : Go wide / tokens -- Keyword Revolution
 WB  Orzhov   --> SocialoBourgeois : Artifacts, treasures, sacrifice
 WG  Selesnya --> Ecolos du centre / Associatif : Revolt (remaster du keyword de Kaladesh), selfbounce
 RG  Gruul    --> Ecoterrorisme, Agriculteurs :  land destruction (??) , Ramp, Artifact destruction
 RB  Rakdos   --> Socialistes / communistes : Vampires / Discard (Ils taxent les riches vous l'avez ?)
-BG  Golgari  --> Ecolos de gauche, redistribution : +1/+1 counters, elves, proliferate 
+BG  Golgari  --> Ecolos de gauche, redistribution : +1/+1 counters, elves, proliferate
 
 
 

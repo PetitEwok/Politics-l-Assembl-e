@@ -8,7 +8,10 @@ Le fichier politics.mse-set rassemble toutes les cartes et permet l'édition à 
 
 --> https://magicseteditor.boards.net/page/downloads
 
-Disclaimer : Ce projet est à vocation purement humoristique. C'est uniquement à cette fin que les personnes, les comportements, les événements, les lieux, etc... sont caricaturés. 
+*** Disclaimer *** :
+
+Ce projet est à vocation purement humoristique. C'est uniquement à cette fin que les personnes, les comportements, les événements, les lieux, etc... sont caricaturés. 
 Dans la mesure du possible, il sera souhaitable que les choix artistiques, éditoriaux ou de game design ne soient pas interprétés comme apportant un quelconque crédit ou discrédit envers l'objet de ma part. 
 Si vous avez des désaccords ou du feedback de manière générale, n'hésitez pas à m'en faire part sur Discord. 
+
 
