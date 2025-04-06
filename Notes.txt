@@ -1,6 +1,6 @@
-U  (bleu)     --> LR/RN/Reconquête
+U  (bleu)     --> LR/RN/Reconquête -> Conservateurs, fascistes & co
 B  (noir)     --> UMPS, ni de gauche ni de droite mais surtout boomers
-W  (blanc)    --> Macronistes
+W  (blanc)    --> Macronistes, jeunes élus, partisans du statu quo
 G  (vert)     --> Ecolos, Jancovicistes et agriculteurs
 R  (rouge)    --> LFI, communistes, gauche révolutionnaire
 
@@ -36,6 +36,7 @@ Azorius:
 Bounce
 white removals
 lifegain (foods)
+graveyard hate
 
 
 
