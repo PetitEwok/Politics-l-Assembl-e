@@ -4,7 +4,7 @@ W  (blanc)    --> Macronistes, jeunes élus, partisans du statu quo
 G  (vert)     --> Ecolos, Jancovicistes et agriculteurs
 R  (rouge)    --> LFI, communistes, gauche révolutionnaire
 
-GU  Simic    --> Ecolos de droite, nucléaire zouzess, techno solutionnistes : tap, untap, activated abilities
+GU  Simic    --> Ecolos de droite, nucléaire zouzes, techno solutionnistes : tap, untap, activated abilities
 WU  Azorius  --> Ultralibéraux :  Lifegain, control
 UB  Dimir    --> UMPS/Printemps républicain :  Value from the graveyard, reanimation, mill
 UR  Izzet    --> Complotistes Russophiles, Extremes :  Pirates (informatique) --> combat damage, treasures (maybe)
