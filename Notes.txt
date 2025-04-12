@@ -1,12 +1,12 @@
-U  (bleu)     --> LR/RN/Reconquête -> Conservateurs, fascistes & co
-B  (noir)     --> UMPS, ni de gauche ni de droite mais surtout boomers
-W  (blanc)    --> Macronistes, jeunes élus, partisans du statu quo
+U  (bleu)     --> LR/RN/Reconquête -> Conservateurs, fascistes & racistes
+B  (noir)     --> UMPS, ni de gauche ni de droite mais surtout boomers, 
+W  (blanc)    --> Macronistes, jeunes élus, partisans du statu quo, modernité
 G  (vert)     --> Ecolos, gauche modérée, Jancovicistes et agriculteurs
 R  (rouge)    --> LFI, communistes, gauche révolutionnaire
 
 GU  Simic    --> Ecolos de droite, nucléaire zouzes, techno solutionnistes : tap, untap, activated abilities
 WU  Azorius  --> Ultralibéraux, racistes :  Lifegain, control
-UB  Dimir    --> UMPS/Printemps républicain, racistes :  Value from the graveyard, reanimation, mill
+UB  Dimir    --> UMPS/Printemps républicain, racistes :  reanimation, mill, voleurs de cartes
 UR  Izzet    --> Complotistes Russophiles, Extremes :  Pirates (informatique) --> combat damage, treasures (maybe), randomness/chaos
 WR  Boros    --> En marche / révolutionnaires : Go wide / tokens -- Keyword Revolution
 WB  Orzhov   --> SocialoBourgeois : Artifacts, treasures, sacrifice
