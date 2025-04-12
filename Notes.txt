@@ -1,13 +1,13 @@
 U  (bleu)     --> LR/RN/Reconquête -> Conservateurs, fascistes & co
 B  (noir)     --> UMPS, ni de gauche ni de droite mais surtout boomers
 W  (blanc)    --> Macronistes, jeunes élus, partisans du statu quo
-G  (vert)     --> Ecolos, Jancovicistes et agriculteurs
+G  (vert)     --> Ecolos, gauche modérée, Jancovicistes et agriculteurs
 R  (rouge)    --> LFI, communistes, gauche révolutionnaire
 
 GU  Simic    --> Ecolos de droite, nucléaire zouzes, techno solutionnistes : tap, untap, activated abilities
-WU  Azorius  --> Ultralibéraux :  Lifegain, control
-UB  Dimir    --> UMPS/Printemps républicain :  Value from the graveyard, reanimation, mill
-UR  Izzet    --> Complotistes Russophiles, Extremes :  Pirates (informatique) --> combat damage, treasures (maybe)
+WU  Azorius  --> Ultralibéraux, racistes :  Lifegain, control
+UB  Dimir    --> UMPS/Printemps républicain, racistes :  Value from the graveyard, reanimation, mill
+UR  Izzet    --> Complotistes Russophiles, Extremes :  Pirates (informatique) --> combat damage, treasures (maybe), randomness/chaos
 WR  Boros    --> En marche / révolutionnaires : Go wide / tokens -- Keyword Revolution
 WB  Orzhov   --> SocialoBourgeois : Artifacts, treasures, sacrifice
 WG  Selesnya --> Ecolos du centre / Associatif : Revolt (remaster du keyword de Kaladesh), selfbounce
@@ -24,12 +24,13 @@ creature that blinks -> deja Darmanin
 cathar commando effect
 revolt : create token white
 fight indesctructible bounce
-green bounce own lands
+elf dork
 
 boros:
 
 tokens makers
 revolution
+enchantment anthem
 
 Azorius:
 
@@ -42,7 +43,27 @@ Dimir:
 
 Mill opp & reward
 
+golgari : 
 
+other counters
+proliferate
 
+Gruul:
+
+Ramp
+Artifact Destruction
+Ramp Payoff
+
+Orzhov:
+
+Artifact tokens
+Artifacts fodder
+Sac outlet
+Sac trigger
+
+Simic
+
+Reduce activated cost
+Late game activated
 
 
