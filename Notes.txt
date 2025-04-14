@@ -16,14 +16,12 @@ RB  Rakdos   --> Socialistes / communistes : Vampires / Discard (Ils taxent les 
 BG  Golgari  --> Ecolos de gauche, redistribution : +1/+1 counters, elves, proliferate
 
 
-
 selesnya
 
 aura that returns itself
 creature that blinks
-cathar commando effect
 revolt : create token white
-fight indesctructible bounce
+fight indestructible bounce
 
 boros:
 
@@ -46,12 +44,14 @@ golgari :
 
 other counters
 proliferate
+Sagas?
 
 Gruul:
 
 Ramp
 Artifact Destruction
 Ramp Payoff
+Tap target land
 
 Orzhov:
 
@@ -62,7 +62,7 @@ Sac trigger
 
 Simic
 
-Reduce activated cost
 Late game activated
+Stun counters
 
 
