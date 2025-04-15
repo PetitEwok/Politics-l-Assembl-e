@@ -65,4 +65,9 @@ Simic
 Late game activated
 Stun counters
 
+boros 
+
+Tokens
+Revolution payoff
+
 
