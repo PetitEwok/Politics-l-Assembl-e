@@ -1,11 +1,11 @@
 U  (bleu)     --> LR/RN/Reconquête -> Conservateurs, fascistes & racistes
-B  (noir)     --> UMPS, ni de gauche ni de droite mais surtout boomers, 
-W  (blanc)    --> Macronistes, jeunes élus, partisans du statu quo, modernité
+B  (noir)     --> UMPS, ni de gauche ni de droite mais surtout boomers 
+W  (blanc)    --> Macronistes, jeunes élus, libéraux, modernité
 G  (vert)     --> Ecolos, gauche modérée, Jancovicistes et agriculteurs
 R  (rouge)    --> LFI, communistes, gauche révolutionnaire
 
 GU  Simic    --> Ecolos de droite, nucléaire zouzes, techno solutionnistes : tap, untap, activated abilities
-WU  Azorius  --> Ultralibéraux, racistes :  Lifegain, control
+WU  Azorius  --> Ultralibéraux, racistes :  Lifegain, control, bounce
 UB  Dimir    --> UMPS/Printemps républicain, racistes :  reanimation, mill, voleurs de cartes
 UR  Izzet    --> Complotistes Russophiles, Extremes :  Pirates (informatique) --> combat damage, treasures (maybe), randomness/chaos
 WR  Boros    --> En marche / révolutionnaires : Go wide / tokens -- Keyword Revolution
@@ -26,6 +26,7 @@ fight indestructible bounce
 boros:
 
 tokens makers
+battle cry
 revolution
 enchantment anthem
 
@@ -69,5 +70,12 @@ boros
 
 Tokens
 Revolution payoff
+
+Rakdos:
+
+Sacrifice fodder
+Graveyard value
+Discard
+
 
 
