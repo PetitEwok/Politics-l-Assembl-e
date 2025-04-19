@@ -29,6 +29,7 @@ tokens makers
 battle cry
 revolution
 enchantment anthem
+Citizen lord ?
 
 Azorius:
 
@@ -52,11 +53,11 @@ Gruul:
 Ramp
 Artifact Destruction
 Ramp Payoff
-Tap target land
 
 Orzhov:
 
 Artifact tokens
+Nontoken projects
 Artifacts fodder
 Sac outlet
 Sac trigger
@@ -65,11 +66,6 @@ Simic
 
 Late game activated
 Stun counters
-
-boros 
-
-Tokens
-Revolution payoff
 
 Rakdos:
 
