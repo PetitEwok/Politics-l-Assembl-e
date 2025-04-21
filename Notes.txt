@@ -18,10 +18,11 @@ BG  Golgari  --> Ecolos de gauche, redistribution : +1/+1 counters, elves, proli
 
 selesnya
 
-aura that returns itself
-creature that blinks
+creature that blinks repeteadly
+Blink spell
 revolt : create token white
 fight indestructible bounce
+land with etb
 
 boros:
 
@@ -56,8 +57,6 @@ Ramp Payoff
 
 Orzhov:
 
-Artifact tokens
-Nontoken projects
 Artifacts fodder
 Sac outlet
 Sac trigger
@@ -73,5 +72,8 @@ Sacrifice fodder
 Graveyard value
 Discard
 
+izzet:
 
+Chaos effect
+Random stuff
 
