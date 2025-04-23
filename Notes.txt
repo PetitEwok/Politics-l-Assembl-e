@@ -18,16 +18,11 @@ BG  Golgari  --> Ecolos de gauche, redistribution : +1/+1 counters, elves, proli
 
 selesnya
 
-creature that blinks repeteadly
-Blink spell
-revolt : create token white
-fight indestructible bounce
-land with etb
+ 
 
 boros:
 
 tokens makers
-battle cry
 revolution
 enchantment anthem
 Citizen lord ?
@@ -38,6 +33,7 @@ Bounce
 white removals
 lifegain (foods)
 graveyard hate
+wrath
 
 Dimir:
 
