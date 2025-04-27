@@ -32,8 +32,9 @@ Azorius:
 Bounce
 white removals
 lifegain (foods)
-graveyard hate
+lifelink
 wrath
+Vigilance bodies
 
 Dimir:
 
@@ -50,6 +51,7 @@ Gruul:
 Ramp
 Artifact Destruction
 Ramp Payoff
+destroy nonbasic
 
 Orzhov:
 
