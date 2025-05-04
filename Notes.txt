@@ -21,7 +21,6 @@ selesnya
 
 boros:
 
-enchantment anthem?
 double strike
 
 Azorius:
@@ -41,7 +40,6 @@ golgari :
 
 other counters
 proliferate
-Sagas?
 
 Gruul:
 
