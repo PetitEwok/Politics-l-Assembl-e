@@ -21,7 +21,6 @@ selesnya
 
 boros:
 
-R/W
 double strike
 
 Azorius:
@@ -44,7 +43,7 @@ proliferate
 
 Gruul:
 
-R/G
+R/G red
 Ramp
 Artifact Destruction
 Ramp Payoff
@@ -55,7 +54,6 @@ Orzhov:
 Artifacts fodder
 Sac outlet
 Sac trigger
-W/G
 
 Simic
 
@@ -64,13 +62,15 @@ Stun counters
 
 Rakdos:
 
+R/B black
+
 Sacrifice fodder
 Graveyard value
 Discard
 
 izzet:
 
-U/R
+U/R red
 Chaos effect
 Random stuff
 
