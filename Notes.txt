@@ -18,6 +18,7 @@ BG  Golgari  --> Ecolos de gauche, redistribution : +1/+1 counters, elves, proli
 
 selesnya
  
+revolt white
 
 boros:
 
@@ -29,8 +30,6 @@ Bounce
 white removals
 lifegain (foods)
 lifelink
-wrath
-Vigilance bodies
 
 Dimir:
 
@@ -59,6 +58,7 @@ Simic
 
 Late game activated
 Stun counters
+Permanents worth untapping
 
 Rakdos:
 
@@ -75,4 +75,5 @@ Chaos effect
 Random stuff
 
 
-
+Elargir la fenetre d'Overton
+Petite Main du Kremlin
