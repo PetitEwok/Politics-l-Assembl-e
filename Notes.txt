@@ -30,6 +30,7 @@ Bounce
 white removals
 lifegain (foods)
 lifelink
+lifegain triggers
 
 Dimir:
 
@@ -39,12 +40,13 @@ golgari :
 
 other counters
 proliferate
+counter each elf
+durable handicraft
+oran rief
 
 Gruul:
 
 R/G red
-Ramp
-Artifact Destruction
 Ramp Payoff
 destroy nonbasic
 
