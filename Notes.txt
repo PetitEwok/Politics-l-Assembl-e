@@ -26,11 +26,6 @@ double strike
 
 Azorius:
 
-Bounce
-white removals
-lifegain (foods)
-lifelink
-lifegain triggers
 
 Dimir:
 
@@ -39,7 +34,7 @@ Mill opp & reward
 golgari : 
 
 other counters
-proliferate
+proliferate on connect	
 counter each elf
 durable handicraft
 oran rief
@@ -58,14 +53,11 @@ Sac trigger
 
 Simic
 
-Late game activated
-Stun counters
 Permanents worth untapping
 
 Rakdos:
 
 R/B black
-
 Sacrifice fodder
 Graveyard value
 Discard
@@ -77,5 +69,7 @@ Chaos effect
 Random stuff
 
 
+multicolor 2 cmc
 Elargir la fenetre d'Overton
 Petite Main du Kremlin
+manif pour tous
