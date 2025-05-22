@@ -19,6 +19,7 @@ BG  Golgari  --> Ecolos de gauche, redistribution : +1/+1 counters, elves, proli
 selesnya
  
 revolt white
+revolution white
 
 boros:
 
@@ -29,7 +30,6 @@ Azorius:
 
 Dimir:
 
-Mill opp & reward
 
 golgari : 
 
@@ -38,26 +38,27 @@ proliferate on connect
 counter each elf
 durable handicraft
 oran rief
+ozolith
+move counters
 
 Gruul:
 
 R/G red
 Ramp Payoff
 destroy nonbasic
+tap lands
 
 Orzhov:
 
-Artifacts fodder
-Sac outlet
 Sac trigger
 
 Simic
 
 Permanents worth untapping
+more cards
 
 Rakdos:
 
-R/B black
 Sacrifice fodder
 Graveyard value
 Discard
@@ -68,8 +69,6 @@ U/R red
 Chaos effect
 Random stuff
 
-
-multicolor 2 cmc
 Elargir la fenetre d'Overton
 Petite Main du Kremlin
 manif pour tous
