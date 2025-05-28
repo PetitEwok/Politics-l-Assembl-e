@@ -68,6 +68,7 @@ izzet:
 U/R red
 Chaos effect
 Random stuff
+grip of chaos
 
 Elargir la fenetre d'Overton
 Petite Main du Kremlin
