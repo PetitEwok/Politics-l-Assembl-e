@@ -16,3 +16,11 @@ Désolé à tous mes camarades de gauche qui aiment bien jouer bleu ou control, 
 Si vous avez des désaccords ou du feedback de manière générale, n'hésitez pas à m'en faire part sur Discord. 
 
 
+# English 
+
+Satiric set designed around the current French political scene and its main contributors.
+
+This project is designed purely for entertainment. Caricatures of people, behaviors, events, places, etc. are made solely for this purpose. I am fully aware that the artistic, editorial, or game design choices reflect my own perception of the current political landscape, which, of course, is not shared by everyone.
+Where possible, it is best not to interpret those choices (especially things like power levels) as an endorsement or criticism of the subject in question.
+Apologies to all my leftist comrades who enjoy playing blue or control, you should have picked colors other than red or green to represent yourselves...
+If you have any disagreements or general feedback, feel free to reach out to me on Discord.
