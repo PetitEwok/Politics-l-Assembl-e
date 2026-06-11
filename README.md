@@ -1,4 +1,4 @@
-# Politics-l-Assembl-e
+# Politics-l-Assemblée
 
 Set custom de MtG satirique basé sur la scène politique française, sur une idée de Clément Viktorovitch 
 
