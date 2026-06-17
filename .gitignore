@@ -1,3 +1,5 @@
 *.un~
 *.*~
+*.cbp
+*.layout
 Images/
