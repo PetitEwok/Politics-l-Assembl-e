@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1781799513 source:c:\users\light\desktop\politics-l-assembl-e\fr\planesculptors\remove_et\main.cpp
+	<filesystem>
+	<iostream>
+	<fstream>
+	<string>
+
