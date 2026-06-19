@@ -31,6 +31,7 @@ Jérôme Guedj
 Olivier Véran
 Ugo à Beauveau
 Mathilde Panot
+Rima Hassan
 Eugénie Bastié
 Benoit Hamon
 Sophia Chikirou
